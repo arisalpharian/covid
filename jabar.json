@@ -1,0 +1,82 @@
+{
+    "status_code": 200,
+    "data": [
+        {
+            "kode_kemkes": null,
+            "nama": "RSU Dr. Hasan Sadikin Bandung",
+            "tipe_faskes": 1,
+            "rujukan": true,
+            "alamat": "Jl. Pasteur No.38 Bandung",
+            "telepon": "",
+            "url": null,
+            "longitude": 107.5966233,
+            "latitude": -6.8964508
+        },
+        {
+            "kode_kemkes": null,
+            "nama": "RSU Dr. Slamet Garut",
+            "tipe_faskes": 1,
+            "rujukan": true,
+            "alamat": "Jl. Rumah Sakit No. 10 Garut",
+            "telepon": "0262232720",
+            "url": null,
+            "longitude": 107.8948479,
+            "latitude": -7.2198133
+        },
+		{
+            "kode_kemkes": null,
+            "nama": "RSU Gunung Jati Cirebon",
+            "tipe_faskes": 1,
+            "rujukan": true,
+            "alamat": "Jl. Kesambi No 56 Cirebon",
+            "telepon": "0231206330",
+            "url": null,
+            "longitude": 108.553221,
+            "latitude": -6.7308392
+        },
+		{
+            "kode_kemkes": null,
+            "nama": "RSTP Dr. H.A. Rotinsulu Bandung",
+            "tipe_faskes": 1,
+            "rujukan": true,
+            "alamat": "Jl. Bukit Jarian No 40 Bandung",
+            "telepon": "022231427",
+            "url": null,
+            "longitude": 107.6038509,
+            "latitude": -6.8788433
+        },
+		{
+            "kode_kemkes": null,
+            "nama": "RSU R. Syamsudin, SH Sukabumi",
+            "tipe_faskes": 1,
+            "rujukan": true,
+            "alamat": "Jl. Rumah Sakit No.1 Kota Sukabumi",
+            "telepon": "0266225180",
+            "url": null,
+            "longitude": 106.9329658,
+            "latitude": -6.9154287
+        },
+		{
+            "kode_kemkes": null,
+            "nama": "RSU Indramayu",
+            "tipe_faskes": 1,
+            "rujukan": true,
+            "alamat": "Jl. Rumah Sakit No. 1 Indramayu",
+            "telepon": "272655",
+            "url": null,
+            "longitude": 108.3194575,
+            "latitude": -6.329737
+        },
+		{
+            "kode_kemkes": null,
+            "nama": "RSU Subang",
+            "tipe_faskes": 1,
+            "rujukan": true,
+            "alamat": "Jl. Brigjen Katamso No. 37 Subang",
+            "telepon": "0260411421",
+            "url": null,
+            "longitude": 107.744808,
+            "latitude": -6.5578205
+        },
+    ]
+}
